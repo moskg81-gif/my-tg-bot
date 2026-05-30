@@ -1,2 +1,3 @@
 aiogram
 beautifulsoup4
+googlesearch-python
